@@ -90,8 +90,16 @@ print('Hello, World!')
 </span>
 
 --- 
-<!-- _class: dark -->
 
-sdasas
-````
+<!-- _class: invert -->
+<!-- _backgroundColor: #000000 -->
+<!-- _backgroundImage: ) -->
 
+![bg blur opacity:30%](./std/dark_sand.jpg)
+
+### Improved Readability by Blurring Background
+
+To improve readability, you can 
+- blur the background image
+- add a semi-transparent overlay
+- use a dark background color
