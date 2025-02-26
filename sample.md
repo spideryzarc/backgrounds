@@ -7,9 +7,15 @@ backgroundColor: #ffffff
 
 # Directories
 
-- highlight `hl/`
-- standard `std/`
-- title `tt/`
+Some images are in directories to help organize them:
+    - highlight `hl/`
+    - standard `std/`
+    - title `tt/`
+
+Easy to download images repositories:
+
+- [pixabay](https://pixabay.com/)
+- [unsplash](https://unsplash.com/)
 
 ---
 
