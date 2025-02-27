@@ -55,7 +55,7 @@ Subtitle here
 
 ---
 
-<!-- _backgroundImage: linear-gradient(to right, rgb(244, 245, 214) 30%, rgba(0, 0, 0, 0)90%) , url('https://spideryzarc.github.io/backgrounds/tt/light_wood.jpg') -->
+<!-- _backgroundImage: linear-gradient(to right, rgb(240, 236, 228) 30%, rgba(0, 0, 0, 0)60%) , url('https://spideryzarc.github.io/backgrounds/tt/light_wood.jpg') -->
 ![bg 50% right](empty.svg)
 
 ## Light Title with Gradient
