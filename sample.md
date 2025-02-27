@@ -63,7 +63,7 @@ Subtitle here
 Subtitle here
 
 ---
-
+<!-- _backgroundColor: #000000 -->
 <!-- _class: invert -->
 <!-- _backgroundImage: url('https://spideryzarc.github.io/backgrounds/std/dark_grid.jpg') -->
 
@@ -103,7 +103,7 @@ print('Hello, World!')
 <!-- _backgroundColor: #000000 -->
 <!-- _backgroundImage: ) -->
 
-![bg blur opacity:30%](https://spideryzarc.github.io/backgrounds/std/dark_sand.jpg)
+![bg blur opacity:50%](https://spideryzarc.github.io/backgrounds/std/dark_grid.jpg)
 
 ### Improved Readability by Blurring Background
 
