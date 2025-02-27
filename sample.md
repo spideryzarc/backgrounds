@@ -40,7 +40,7 @@ Subtitle here
 
 ![bg 50% right](empty.svg)
 
-## Dark Background Title with Gradient
+## Dark Title with Gradient
 
 Subtitle here
 
@@ -55,15 +55,17 @@ Subtitle here
 
 ---
 
-<!-- _backgroundImage: linear-gradient(to right, rgba(255, 255, 255, 1) 30%, rgba(0, 0, 0, 0)90%) , url('https://spideryzarc.github.io/backgrounds/tt/light_wood.jpg') -->
+<!-- _backgroundImage: linear-gradient(to right, rgb(244, 245, 214) 30%, rgba(0, 0, 0, 0)90%) , url('https://spideryzarc.github.io/backgrounds/tt/light_wood.jpg') -->
 ![bg 50% right](empty.svg)
 
 ## Light Title with Gradient
 
+Subtitle here
+
 ---
 
 <!-- _class: invert -->
-<!-- _backgroundImage: url('https://spideryzarc.github.io/backgrounds/std/dark_sand.jpg') -->
+<!-- _backgroundImage: url('https://spideryzarc.github.io/backgrounds/std/dark_grid.jpg') -->
 
 ## Dark Standard Background
 
