@@ -111,3 +111,20 @@ To improve readability, you can
 - blur the background image
 - add a semi-transparent overlay
 - use a dark background color
+
+---
+
+<!-- _backgroundImage: url('https://spideryzarc.github.io/backgrounds/tt/blue_mountain.jpg') -->
+
+<div style="background-color: rgba(224, 220, 220, 0.2); padding: 20px; 
+border-radius: 10px;
+backdrop-filter: blur(10px);
+border: 1px solid rgba(240, 244, 245, 0.9);
+align-items: center; 
+justify-content: center; 
+display: flex; 
+height: 10%;
+width: 50%;
+margin: auto;">
+    Glass effect with backdrop-filter
+</div>
