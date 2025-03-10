@@ -128,3 +128,14 @@ width: 50%;
 margin: auto;">
     Glass effect with backdrop-filter
 </div>
+
+---
+<!-- _class: invert -->
+<!-- _backgroundImage: linear-gradient(to bottom, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.6) 45%, rgba(0, 0, 0, 0) 60%), url('https://spideryzarc.github.io/backgrounds/std/dark_grid.jpg') -->
+
+<div style="padding: 20px; text-align: center;">
+    <h1>Highlighted Text</h2>
+    
+</div>
+
+---
